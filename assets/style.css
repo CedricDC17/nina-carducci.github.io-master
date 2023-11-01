@@ -126,8 +126,8 @@ h4{
 }
 .gallery-item {
 	position: absolute;
-	width: 380px;
-	height: 380px;
+	width: 100%;
+	height: 100%;
 	object-fit: cover;
 	padding: .5em;
 }
